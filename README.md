@@ -8,9 +8,13 @@ Postman instalado no seu computador para importar a coleção e executar os test
 
 ## Como Usar
 -**Clone o repositório:**
+
 -**git clone-** 
+
 -**Abra o Postman e importe a coleção:**
+
 -**Vá para File >** Import e selecione o arquivo API de Usuários.postman_collection.json.
+
 -**Execute os testes da coleção e verifique os resultados.**
 
 ## Contribuição
