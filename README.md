@@ -7,9 +7,7 @@
 Postman instalado no seu computador para importar a coleção e executar os testes.
 
 ## Como Usar
--**Clone o repositório:**
-
--**git clone-** 
+-**Clone o repositório:** git clone 
 
 -**Abra o Postman e importe a coleção:**
 
