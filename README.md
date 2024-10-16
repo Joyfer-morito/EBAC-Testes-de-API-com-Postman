@@ -1,20 +1,10 @@
 ## O que Tem Aqui
--**API de Usuários.postman_collection.json:** Arquivo que contém a coleção de testes de API para a funcionalidade de usuários, permitindo a execução e verificação das requisições e respostas.
+- **API de Usuários.postman_collection.json**: Coleção de testes do Postman para verificar os endpoints da API de usuários.
 
 ## O que Você Precisa
-Postman instalado no seu computador para importar a coleção e executar os testes.
+- **Postman**: Ferramenta para testar e desenvolver APIs.
 
 ## Como Usar
--**Clone o repositório:** git clone 
-
--**Abra o Postman e importe a coleção:**
-
--**Vá para File >** Import e selecione o arquivo API de Usuários.postman_collection.json.
-
--**Execute os testes da coleção e verifique os resultados.**
-
-## Contribuição
-Se você quiser contribuir, fique à vontade para abrir sugestões ou fazer mudanças!
-
-## Licença
-Este projeto está sob a MIT License.
+1. Importe o arquivo **API de Usuários.postman_collection.json** no Postman.
+2. Execute os testes na coleção para validar os endpoints da API.
+3. Verifique os resultados e ajuste os testes conforme necessário para cobrir os cenários desejados.
