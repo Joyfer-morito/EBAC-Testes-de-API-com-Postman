@@ -1,5 +1,3 @@
-## Este repositório contém uma coleção de testes de API 🛠️ para a API de Usuários, utilizando o Postman como ferramenta principal. O objetivo é validar as funcionalidades e garantir que as respostas da API estejam corretas e em conformidade com as especificações.
-
 ## O que Tem Aqui
 -**API de Usuários.postman_collection.json:** Arquivo que contém a coleção de testes de API para a funcionalidade de usuários, permitindo a execução e verificação das requisições e respostas.
 
